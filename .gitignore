@@ -11,3 +11,5 @@ tmp
 # The development sqlite file
 database/development.sqlite
 .env
+client/src/services/api.ts
+client/dist/
